@@ -14,7 +14,7 @@ server_config=\
 frontend carokil1_frontend
         bind *:80
         mode http
-        default_backend besthor_backend
+        default_backend carokil1_backend
 backend carokil1_backend
         balance roundrobin
         server 176572-web-01 100.26.215.65:80 check
