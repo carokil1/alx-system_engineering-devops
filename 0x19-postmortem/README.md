@@ -4,8 +4,8 @@
 ## Postmortem: Web Stack Outage
 
 ### Issue Summary
-- **Duration:** The outage lasted from 10:00 AM to 2:30 PM EST on November 10, 2023.
-- **Impact:** Approximately 60% of our users experienced slow response times and intermittent downtime accessing our main web service. The service's API responses were delayed, causing cascading effects on dependent services.
+- **Duration:** The outage lasted from 10:00 AM to 2:30 PM EST on November 10, 2023.(Long enough to finish a Lord of the Rings extended edition!)
+- **Impact:** Approximately 60% of our users experienced slow response times and intermittent downtime accessing our main web service. The service's API responses were delayed, causing cascading effects on dependent services. Our main service was as slow as a snail on a lazy Sunday.
 - **Root Cause:** A misconfigured load balancer failed to distribute traffic evenly across servers, leading to an overload on a subset of servers.
 
 ### Timeline
