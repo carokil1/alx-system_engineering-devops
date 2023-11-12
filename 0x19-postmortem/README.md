@@ -1,5 +1,5 @@
 
-![Funny Loading GIF](https://giphy.com/clips/studiosoriginals-sleep-tired-sleepy-u2wg2uXJbHzkXkPphr)
+![Funny Loading GIF](https://media1.giphy.com/media/u2wg2uXJbHzkXkPphr/giphy360p.mp4?cid=ecf05e47w50jxfo9mvlz06cnahkxtb16avvm2vif4gk94ynm&ep=v1_videos_search&rid=giphy360p.mp4&ct=v)
 
 ## Postmortem: Web Stack Outage
 
@@ -18,7 +18,7 @@
 - **2:00 PM** - Corrected load balancer settings and redistributed server load.
 - **2:30 PM** - Service fully restored; monitoring confirmed normal operation.
 
-![A Day in the Life of Our Outage](https://ibb.co/rfNbTwm)
+![A Day in the Life of Our Outage](https://i.imgur.com/YmNnnHf.png)
 
 
 ### Root Cause and Resolution
