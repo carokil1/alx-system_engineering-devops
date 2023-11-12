@@ -1,3 +1,6 @@
+
+![Funny Loading GIF](https://giphy.com/clips/studiosoriginals-sleep-tired-sleepy-u2wg2uXJbHzkXkPphr)
+
 ## Postmortem: Web Stack Outage
 
 ### Issue Summary
@@ -14,6 +17,9 @@
 - **1:00 PM** - Network team ruled out network issues; focus returned to load balancer configuration.
 - **2:00 PM** - Corrected load balancer settings and redistributed server load.
 - **2:30 PM** - Service fully restored; monitoring confirmed normal operation.
+
+![A Day in the Life of Our Outage](https://ibb.co/rfNbTwm)
+
 
 ### Root Cause and Resolution
 - **Cause:** The load balancer was incorrectly configured during a recent update, which led to some servers being overwhelmed while others were underutilized.
