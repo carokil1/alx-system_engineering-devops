@@ -1,5 +1,5 @@
 
-![Funny Loading GIF](https://media1.giphy.com/media/u2wg2uXJbHzkXkPphr/giphy360p.mp4?cid=ecf05e47w50jxfo9mvlz06cnahkxtb16avvm2vif4gk94ynm&ep=v1_videos_search&rid=giphy360p.mp4&ct=v)
+![Funny Loading GIF](https://i.imgur.com/gMTQA7Z.gif)
 
 ## Postmortem: Web Stack Outage
 
